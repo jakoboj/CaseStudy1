@@ -62,4 +62,6 @@ For backup I set up a Recovery Service vault, and added both the VMs:
 I created a storageaccount conatining a file share. This fileshare was mapped to the windows virtual machine through a powershell script.
 
 <h2>Diagram</h2>
+
 ![Diagram](https://github.com/jakoboj/CaseStudy1/blob/main/Diagram/Diagram.PNG)
+
