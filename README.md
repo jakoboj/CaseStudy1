@@ -8,7 +8,7 @@ I created a windows virtual machine, and added IIS through the command:
 
 ![IIS](https://github.com/jakoboj/CaseStudy1/blob/main/Screenshots/IIS.PNG)
 
-I also added inbound rules allowing access on port 80 and 443, respectively for HTTP and HTTPS
+I also added inbound rules allowing access on port 80 and 443, for HTTP and HTTPS
 
 ![Inbound Rules](https://github.com/jakoboj/CaseStudy1/blob/main/Screenshots/Rules-Windows.PNG)
 
