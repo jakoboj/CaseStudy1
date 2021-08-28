@@ -6,7 +6,7 @@ I created a windows virtual machine, and added IIS through the command:
 <li>Install-WindowsFeature -name Web-Server -IncludeManagementTools</li>
 </ul>
 
-!IIS(https://github.com/jakoboj/CaseStudy1/blob/main/Screenshots/IIS.PNG)
+![IIS](https://github.com/jakoboj/CaseStudy1/blob/main/Screenshots/IIS.PNG)
 
 I also added inbound rules allowing access on port 80 and 443, respectively for HTTP and HTTPS
 
